@@ -1,1 +1,6 @@
-<?php echo "contacto";?>
+<?php 
+echo "contacto";
+
+//proceso de email//
+
+?>
